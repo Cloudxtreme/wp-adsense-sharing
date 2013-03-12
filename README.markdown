@@ -12,11 +12,9 @@ Moreover, there is also custom placement for advance users.
 
 Lastly, authors just need to enter their Adsense Publisher ID in option page.
 
-For Instruction, please visit this [post](http://www.wordpressplugindeveloper.com/wp-adsense-sharing.html) instead.
-
 ### Copyright
 
-This wordpress plugin is copyright by [Wordpress Plugin Developer](http://www.wordpressplugindeveloper.com)
+This wordpress plugin is copyright by [wpactions](http://www.wpactions.com)
 
 ###License
 
